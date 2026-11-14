@@ -18,3 +18,4 @@ ChangeLog
 
 0.2.6   Carl.andrson@nltgis.com
         Remove dependency on pyproj and shapely and use great circle computation to expand a point search to a box
+
